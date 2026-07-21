@@ -1,0 +1,12 @@
+Automated Knee Osteoarthritis Prediction and Classification from X-ray Images Using Deep Learning.
+********************************************
+Algorithm / Model Used: VGG16 Model.
+
+Accuracy Train Score:93%
+Accuracy Test Score:92%.
+********************************************
+Algorithm / Model Used: MobileNetV2 Model.
+
+Accuracy Train Score:96%
+Accuracy Test Score:96%.
+********************************************
